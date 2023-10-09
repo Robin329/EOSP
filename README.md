@@ -26,6 +26,8 @@ This project aims to collect small open source projects suitable for beginners o
 | 16   |  [json](https://github.com/nlohmann/json)          | json for modern c++. | |
 | 17   |  [nameof](https://github.com/Neargye/nameof)          | Header-only C++17 library provides nameof macros and functions to simply obtain the name of a variable, type, function, macro, and enum. | |
 | 18   |  [uevent](https://github.com/Robin329/uevent)          | kernel uevent listener. | |
+| 19   |  [snake c](https://github.com/Robin329/snake)          | C snake Game. | |
+| 20   |  [snake cpp](https://github.com/Robin329/snake_cpp)          | C++ snake Game. | |
 
 ## Python Source Projects
 
@@ -35,6 +37,7 @@ This project aims to collect small open source projects suitable for beginners o
 | 2   |  [arm_system_register_parser](https://github.com/Robin329/arm_system_register_parser)    |    A python parser for decoding arm aarch32 and aarch64 system registers.     |         |
 | 3   |  [pdfdir](https://github.com/chroming/pdfdir)    |    pdfdir —— PDF导航书签添加工具.     |         |
 | 4   |  [dpcd_parser](https://github.com/Robin329/dpcd_parser)    |    Parse DPCD register values.     |         |
+| 5   |  [snake](https://github.com/chuyangliu/snake)    |    Snake Game     |         |
 
 ## Bash Source Projects
 
